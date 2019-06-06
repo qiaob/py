@@ -6,5 +6,5 @@ name = input()
 print( "age:")
 age = input()
 
-print ("name is"+name+"\n"+"age is "+age)
+print ("name is "+name+"\n"+"age is "+age)
 
